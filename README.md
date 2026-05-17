@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a Computer Science student with a focus on Machine Learning, Deep Learning, DevOps, and MLOps. I enjoy building systems that combine software engineering with data-driven intelligence.<br><br>I’m currently participating in the Break Through Tech program, where I’m gaining experience in applied machine learning and industry-focused tech projects.<br><br>I’m also involved in university research, working on a deep learning project focused on cough-based health prediction, where I explore how audio signals can be used for respiratory risk analysis.
 
 
